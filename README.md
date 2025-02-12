@@ -4,7 +4,7 @@
 - 📫 How to reach me:  
   - Mail: tzuningluo@gmail.com
   - LinkedIn: [Elle Lo](https://www.linkedin.com/in/ellelo/)  
-- 🧚🏻‍♀️ Fun fact: I don't know what fun fact I have 😳
+- 🧚🏻‍♀️ Fun fact: I'm still trying to figure out what my fun fact is! 😳
 
 
 <!---
