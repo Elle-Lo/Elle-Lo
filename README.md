@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Elle-Lo  
+- 👋 Hi, I’m Elle
 - 🌸 I’m interested in reading books, hiking, handicrafts, and anything interesting 😎  
 - 👩🏻‍💻 I’m currently learning Swift and SwiftUI  
 - 📫 How to reach me:  
-  - Mail: tzuningluo  
+  - Mail: tzuningluo@gmail.com
   - LinkedIn: [Elle Lo](https://www.linkedin.com/in/ellelo/)  
-- 🤸🏻 Fun fact: I am an extrovert when I'm alone 🧚🏻‍♀️  
+- 🧚🏻‍♀️ Fun fact: I don't what fun fact I have 😳
 
 
 <!---
