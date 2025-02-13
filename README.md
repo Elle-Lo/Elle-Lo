@@ -1,14 +1,14 @@
-# Hello World!
+# Hello World! 🐥
 Hi, I’m Elle.
 
-## 💐 About Me
+## About Me 💐
 - 🌸 I’m interested in reading books, hiking, handicrafts, and anything interesting 😎  
 - 👩🏻‍💻 I’m currently learning Swift and SwiftUI  
 - 🧚🏻‍♀️ Fun fact: I'm still trying to figure out what my fun fact is! 😳
 
-## 📫 Contact
-- Mail: tzuningluo@gmail.com
-- LinkedIn: [Elle Lo](https://www.linkedin.com/in/ellelo/)  
+## Contact 📫 
+- 📩 Email: tzuningluo@gmail.com
+- 📱 LinkedIn: [Elle Lo](https://www.linkedin.com/in/ellelo/)  
 
 <!---
 Elle-Lo/Elle-Lo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
